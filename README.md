@@ -3,10 +3,15 @@
 Home Pages :
 <br />
 <br />
-<img src="Screenshot.png" width="280" height="500
+<img src="Screenshot.jpg" width="280" height="600
 " align="left" align="top">
-<img src="Screenshot2.png" width="280" height="500
+<img src="Screenshot2.jpg" width="280" height="600
 " align="left" align="top">
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
